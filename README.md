@@ -1,0 +1,1 @@
+trican stand alone for windows
